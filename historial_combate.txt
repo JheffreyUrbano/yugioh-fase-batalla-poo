@@ -1,25 +1,3 @@
-Turno 1 | Atacante: Mago Oscuro (Yugi) vs Defensor: Soldado de Piedra (Kaiba) | Danio: 0 | Resultado: Soldado de Piedra en defensa fue destruido (0 LP de danio).
-Turno 1 | Atacante: Mago A (Yugi) vs Defensor: Mago B (Kaiba) | Danio: 0 | Resultado: Empate en ataque. Ambos monstruos fueron destruidos (0 LP de danio).
-Turno 2 | Atacante: Guerrero (Yugi) vs Defensor: Escudo Gigante (Kaiba) | Danio: 1100 | Resultado: Guerrero no supero la defensa. Yugi pierde 1100 LP.
-Turno 3 | Atacante: Dragon Blanco (Yugi) vs Defensor: Muro Laberinto (Kaiba) | Danio: 0 | Resultado: Muro Laberinto en defensa fue destruido (0 LP de danio).
-Turno 4 | Atacante: Mago Oscuro (Yugi) vs Defensor: Soldado Piedra (Kaiba) | Danio: 1200 | Resultado: Soldado Piedra fue destruido. Kaiba pierde 1200 LP.
-Turno 5 | Atacante: Kuriboh (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 2700 | Resultado: Kuriboh fue destruido. Yugi pierde 2700 LP.
-Turno 6 | Atacante: Chica Maga (Yugi) vs Defensor: DIRECTO (Kaiba) | Daño: 2300 | Resultado: Ataque directo exitoso. Kaiba pierde 2300 LP.
-Turno 1 | Atacante: Mago A (Yugi) vs Defensor: Mago B (Kaiba) | Danio: 0 | Resultado: Empate en ataque. Ambos monstruos fueron destruidos (0 LP de danio).
-Turno 2 | Atacante: Guerrero (Yugi) vs Defensor: Escudo Gigante (Kaiba) | Danio: 1100 | Resultado: Guerrero no supero la defensa. Yugi pierde 1100 LP.
-Turno 3 | Atacante: Dragon Blanco (Yugi) vs Defensor: Muro Laberinto (Kaiba) | Danio: 0 | Resultado: Muro Laberinto en defensa fue destruido (0 LP de danio).
-Turno 4 | Atacante: Mago Oscuro (Yugi) vs Defensor: Soldado Piedra (Kaiba) | Danio: 1200 | Resultado: Soldado Piedra fue destruido. Kaiba pierde 1200 LP.
-Turno 5 | Atacante: Kuriboh (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 2700 | Resultado: Kuriboh fue destruido. Yugi pierde 2700 LP.
-Turno 6 | Atacante: Chica Maga (Yugi) vs Defensor: DIRECTO (Kaiba) | Daño: 2300 | Resultado: Ataque directo exitoso. Kaiba pierde 2300 LP.
-Turno 1 | Atacante: Mago A (Yugi) vs Defensor: Mago B (Kaiba) | Danio: 0 | Resultado: Empate en ataque. Ambos monstruos fueron destruidos (0 LP de danio).
-Turno 2 | Atacante: Guerrero (Yugi) vs Defensor: Escudo Gigante (Kaiba) | Danio: 1100 | Resultado: Guerrero no supero la defensa. Yugi pierde 1100 LP.
-Turno 3 | Atacante: Dragon Blanco (Yugi) vs Defensor: Muro Laberinto (Kaiba) | Danio: 0 | Resultado: Muro Laberinto en defensa fue destruido (0 LP de danio).
-Turno 4 | Atacante: Mago Oscuro (Yugi) vs Defensor: Soldado Piedra (Kaiba) | Danio: 1200 | Resultado: Soldado Piedra fue destruido. Kaiba pierde 1200 LP.
-Turno 5 | Atacante: Kuriboh (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 2700 | Resultado: Kuriboh fue destruido. Yugi pierde 2700 LP.
-Turno 6 | Atacante: Chica Maga (Yugi) vs Defensor: DIRECTO (Kaiba) | Daño: 2300 | Resultado: Ataque directo exitoso. Kaiba pierde 2300 LP.
-Turno 1 | Atacante: Mago A (Yugi) vs Defensor: Mago B (Kaiba) | Danio: 0 | Resultado: Empate en ataque. Ambos monstruos fueron destruidos (0 LP de danio).
-Turno 2 | Atacante: Guerrero (Yugi) vs Defensor: Escudo Gigante (Kaiba) | Danio: 1100 | Resultado: Guerrero no supero la defensa. Yugi pierde 1100 LP.
-Turno 3 | Atacante: Dragon Blanco (Yugi) vs Defensor: Muro Laberinto (Kaiba) | Danio: 0 | Resultado: Muro Laberinto en defensa fue destruido (0 LP de danio).
-Turno 4 | Atacante: Mago Oscuro (Yugi) vs Defensor: Soldado Piedra (Kaiba) | Danio: 1200 | Resultado: Soldado Piedra fue destruido. Kaiba pierde 1200 LP.
-Turno 5 | Atacante: Kuriboh (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 2700 | Resultado: Kuriboh fue destruido. Yugi pierde 2700 LP.
-Turno 6 | Atacante: Chica Maga (Yugi) vs Defensor: DIRECTO (Kaiba) | Daño: 2300 | Resultado: Ataque directo exitoso. Kaiba pierde 2300 LP.
+Turno 1 | Atacante: Chica Maga Oscura (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 700 | Resultado: Chica Maga Oscura fue destruido. Yugi pierde 700 LP.
+Turno 2 | Atacante: Mago Oscuro (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 500 | Resultado: Mago Oscuro fue destruido. Yugi pierde 500 LP.
+Turno 3 | Atacante: Dragon Blanco (Kaiba) vs Defensor: Paladín Oscuro (Yugi) | Danio: 0 | Resultado: Paladín Oscuro en defensa fue destruido (0 LP de danio).
