@@ -108,7 +108,9 @@ public class ControladorBatalla {
             jugadores.clear();
             jugadores.add(new Jugador(nombreJ1, lp1));
             jugadores.add(new Jugador(nombreJ2, lp2));
-
+            
+            cargarMonstruosPorDefecto();
+            
             actualizarEtiquetasLP();
             actualizarCombosCombate();
 
@@ -278,4 +280,16 @@ public class ControladorBatalla {
         vista.getTxtBono().setText("0");
         vista.getTxtEfecto().setText("");
     }
+    
+    private void cargarMonstruosPorDefecto() {
+        Jugador j1 = jugadores.get(0);
+        Jugador j2 = jugadores.get(1);
+
+        j1.agregarCarta(new MonstruoNormal("Mago Oscuro", 2500, 2100, "ATAQUE"));
+        j1.agregarCarta(new MonstruoEfecto("Chica Maga Oscura", 2000, 1700, "ATAQUE", 300, "Bono de Magos"));
+
+        j2.agregarCarta(new MonstruoNormal("Dragon Blanco", 3000, 2500, "ATAQUE"));
+        j2.agregarCarta(new MonstruoNormal("Soldado de Piedra", 1300, 2000, "DEFENSA"));
+    }
+    
 }
