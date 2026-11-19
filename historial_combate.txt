@@ -1,0 +1,3 @@
+Turno 1 | Atacante: Chica Maga Oscura (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 700 | Resultado: Chica Maga Oscura fue destruido. Yugi pierde 700 LP.
+Turno 2 | Atacante: Mago Oscuro (Yugi) vs Defensor: Dragon Blanco (Kaiba) | Danio: 500 | Resultado: Mago Oscuro fue destruido. Yugi pierde 500 LP.
+Turno 3 | Atacante: Dragon Blanco (Kaiba) vs Defensor: Paladín Oscuro (Yugi) | Danio: 0 | Resultado: Paladín Oscuro en defensa fue destruido (0 LP de danio).
